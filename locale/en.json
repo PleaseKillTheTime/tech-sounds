@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Tech sounds",
+    "description": "Plays sci-fi sound cues for agent work and UI actions: a soft tick on buttons, switches, tabs, and menu items, an upward swoosh when the conversation in the main view changes, a rising sweep when a turn starts, soft ticks for tool calls, a ding when the model finishes thinking, a spoken female \"Mission complete\" when a turn completes, and alerts for errors and approval requests. Sounds are synthesized in the browser and play automatically; the speaker button beside the composer mutes or unmutes them and plays a test cue."
+  }
+}

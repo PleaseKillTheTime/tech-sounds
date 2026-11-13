@@ -1,0 +1,3 @@
+- insert:
+    - id: tech-sounds
+      name: '@local/tech-sounds'
